@@ -1,0 +1,9 @@
+G:\Projects\AxactAsia\Utility\bin\Debug\Utility.dll
+G:\Projects\AxactAsia\Utility\bin\Debug\Utility.pdb
+G:\Projects\AxactAsia\Utility\obj\Debug\Utility.csprojResolveAssemblyReference.cache
+G:\Projects\AxactAsia\Utility\obj\Debug\Utility.dll
+G:\Projects\AxactAsia\Utility\obj\Debug\Utility.pdb
+G:\Projects\Publish_AxactAsia\AxactAsia\Utility\bin\Debug\Utility.dll
+G:\Projects\Publish_AxactAsia\AxactAsia\Utility\bin\Debug\Utility.pdb
+G:\Projects\Publish_AxactAsia\AxactAsia\Utility\obj\Debug\Utility.dll
+G:\Projects\Publish_AxactAsia\AxactAsia\Utility\obj\Debug\Utility.pdb

@@ -1,0 +1,16 @@
+G:\Projects\AxactAsia\DAL\bin\Debug\DAL.dll.config
+G:\Projects\AxactAsia\DAL\bin\Debug\DAL.dll
+G:\Projects\AxactAsia\DAL\bin\Debug\DAL.pdb
+G:\Projects\AxactAsia\DAL\bin\Debug\DataModelEdmx.dll
+G:\Projects\AxactAsia\DAL\bin\Debug\DataModelEdmx.pdb
+G:\Projects\AxactAsia\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+G:\Projects\AxactAsia\DAL\obj\Debug\DAL.dll
+G:\Projects\AxactAsia\DAL\obj\Debug\DAL.pdb
+G:\Projects\Publish_AxactAsia\AxactAsia\DAL\bin\Debug\DAL.dll.config
+G:\Projects\Publish_AxactAsia\AxactAsia\DAL\bin\Debug\DAL.dll
+G:\Projects\Publish_AxactAsia\AxactAsia\DAL\bin\Debug\DAL.pdb
+G:\Projects\Publish_AxactAsia\AxactAsia\DAL\bin\Debug\DataModelEdmx.dll
+G:\Projects\Publish_AxactAsia\AxactAsia\DAL\bin\Debug\DataModelEdmx.pdb
+G:\Projects\Publish_AxactAsia\AxactAsia\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+G:\Projects\Publish_AxactAsia\AxactAsia\DAL\obj\Debug\DAL.dll
+G:\Projects\Publish_AxactAsia\AxactAsia\DAL\obj\Debug\DAL.pdb

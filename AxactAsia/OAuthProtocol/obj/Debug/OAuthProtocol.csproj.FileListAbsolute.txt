@@ -1,0 +1,9 @@
+G:\Projects\AxactAsia\OAuthProtocol\bin\Debug\OAuthProtocol.dll
+G:\Projects\AxactAsia\OAuthProtocol\bin\Debug\OAuthProtocol.pdb
+G:\Projects\AxactAsia\OAuthProtocol\obj\Debug\OAuthProtocol.csprojResolveAssemblyReference.cache
+G:\Projects\AxactAsia\OAuthProtocol\obj\Debug\OAuthProtocol.dll
+G:\Projects\AxactAsia\OAuthProtocol\obj\Debug\OAuthProtocol.pdb
+G:\Projects\Publish_AxactAsia\AxactAsia\OAuthProtocol\bin\Debug\OAuthProtocol.dll
+G:\Projects\Publish_AxactAsia\AxactAsia\OAuthProtocol\bin\Debug\OAuthProtocol.pdb
+G:\Projects\Publish_AxactAsia\AxactAsia\OAuthProtocol\obj\Debug\OAuthProtocol.dll
+G:\Projects\Publish_AxactAsia\AxactAsia\OAuthProtocol\obj\Debug\OAuthProtocol.pdb

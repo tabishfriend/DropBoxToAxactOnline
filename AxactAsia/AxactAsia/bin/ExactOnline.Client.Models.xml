@@ -1,0 +1,1054 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+ExactOnline.Client.Models
+</name>
+</assembly>
+<members>
+<member name="P:ExactOnline.Client.Models.Account.AccountManagerFullName">
+	<summary>Readonly Field</summary>
+</member><member name="P:ExactOnline.Client.Models.Account.AccountManagerHID">
+	<summary>Readonly Field</summary>
+</member><member name="P:ExactOnline.Client.Models.Account.ClassificationDescription">
+	<summary>Readonly Field</summary>
+</member><member name="P:ExactOnline.Client.Models.Account.CostcenterDescription">
+	<summary>Readonly Field</summary>
+</member><member name="P:ExactOnline.Client.Models.Account.Created">
+	<summary>Readonly Field</summary>
+</member><member name="P:ExactOnline.Client.Models.Account.Creator">
+	<summary>Readonly Field</summary>
+</member><member name="P:ExactOnline.Client.Models.Account.CreatorFullName">
+	<summary>Readonly Field</summary>
+</member><member name="P:ExactOnline.Client.Models.Account.Division">
+	<summary>Readonly Field</summary>
+</member><member name="P:ExactOnline.Client.Models.Account.InvoiceAccountCode">
+	<summary>Readonly Field</summary>
+</member><member name="P:ExactOnline.Client.Models.Account.InvoiceAccountName">
+	<summary>Readonly Field</summary>
+</member><member name="P:ExactOnline.Client.Models.Account.LanguageDescription">
+	<summary>Readonly Field</summary>
+</member><member name="P:ExactOnline.Client.Models.Account.Modified">
+	<summary>Readonly Field</summary>
+</member><member name="P:ExactOnline.Client.Models.Account.Modifier">
+	<summary>Readonly Field</summary>
+</member><member name="P:ExactOnline.Client.Models.Account.ModifierFullName">
+	<summary>Readonly Field</summary>
+</member><member name="P:ExactOnline.Client.Models.Account.PaymentConditionPurchaseDescription">
+	<summary>Readonly Field</summary>
+</member><member name="P:ExactOnline.Client.Models.Account.PaymentConditionSalesDescription">
+	<summary>Readonly Field</summary>
+</member><member name="P:ExactOnline.Client.Models.Account.PurchaseCurrencyDescription">
+	<summary>Readonly Field</summary>
+</member><member name="P:ExactOnline.Client.Models.Account.PurchaseVATCodeDescription">
+	<summary>Readonly Field</summary>
+</member><member name="P:ExactOnline.Client.Models.Account.ResellerCode">
+	<summary>Readonly Field</summary>
+</member><member name="P:ExactOnline.Client.Models.Account.ResellerName">
+	<summary>Readonly Field</summary>
+</member><member name="P:ExactOnline.Client.Models.Account.SalesCurrencyDescription">
+	<summary>Readonly Field</summary>
+</member><member name="P:ExactOnline.Client.Models.Account.SalesVATCodeDescription">
+	<summary>Readonly Field</summary>
+</member><member name="P:ExactOnline.Client.Models.Account.StateName">
+	<summary>Readonly Field</summary>
+</member><member name="P:ExactOnline.Client.Models.AccountClass.Created">
+	<summary>Readonly Field</summary>
+</member><member name="P:ExactOnline.Client.Models.AccountClass.Creator">
+	<summary>Readonly Field</summary>
+</member><member name="P:ExactOnline.Client.Models.AccountClass.CreatorFullName">
+	<summary>Readonly Field</summary>
+</member><member name="P:ExactOnline.Client.Models.AccountClass.Division">
+	<summary>Readonly Field</summary>
+</member><member name="P:ExactOnline.Client.Models.AccountClass.Modified">
+	<summary>Readonly Field</summary>
+</member><member name="P:ExactOnline.Client.Models.AccountClass.Modifier">
+	<summary>Readonly Field</summary>
+</member><member name="P:ExactOnline.Client.Models.AccountClass.ModifierFullName">
+	<summary>Readonly Field</summary>
+</member><member name="P:ExactOnline.Client.Models.AccountClassification.Created">
+	<summary>Readonly Field</summary>
+</member><member name="P:ExactOnline.Client.Models.AccountClassification.Creator">
+	<summary>Readonly Field</summary>
+</member><member name="P:ExactOnline.Client.Models.AccountClassification.Division">
+	<summary>Readonly Field</summary>
+</member><member name="P:ExactOnline.Client.Models.AccountClassification.Modified">
+	<summary>Readonly Field</summary>
+</member><member name="P:ExactOnline.Client.Models.AccountClassification.Modifier">
+	<summary>Readonly Field</summary>
+</member><member name="P:ExactOnline.Client.Models.AccountClassificationName.Created">
+	<summary>Readonly Field</summary>
+</member><member name="P:ExactOnline.Client.Models.AccountClassificationName.Creator">
+	<summary>Readonly Field</summary>
+</member><member name="P:ExactOnline.Client.Models.AccountClassificationName.Division">
+	<summary>Readonly Field</summary>
+</member><member name="P:ExactOnline.Client.Models.AccountClassificationName.Modified">
+	<summary>Readonly Field</summary>
+</member><member name="P:ExactOnline.Client.Models.AccountClassificationName.Modifier">
+	<summary>Readonly Field</summary>
+</member><member name="P:ExactOnline.Client.Models.Asset.AssetFromDescription">
+	<summary>Readonly Field</summary>
+</member><member name="P:ExactOnline.Client.Models.Asset.AssetGroupDescription">
+	<summary>Readonly Field</summary>
+</member><member name="P:ExactOnline.Client.Models.Asset.CostcenterDescription">
+	<summary>Readonly Field</summary>
+</member><member name="P:ExactOnline.Client.Models.Asset.CostunitDescription">
+	<summary>Readonly Field</summary>
+</member><member name="P:ExactOnline.Client.Models.Asset.Created">
+	<summary>Readonly Field</summary>
+</member><member name="P:ExactOnline.Client.Models.Asset.Creator">
+	<summary>Readonly Field</summary>
+</member><member name="P:ExactOnline.Client.Models.Asset.CreatorFullName">
+	<summary>Readonly Field</summary>
+</member><member name="P:ExactOnline.Client.Models.Asset.Division">
+	<summary>Readonly Field</summary>
+</member><member name="P:ExactOnline.Client.Models.Asset.GLTransactionLineDescription">
+	<summary>Readonly Field</summary>
+</member><member name="P:ExactOnline.Client.Models.Asset.InvestmentAccountCode">
+	<summary>Readonly Field</summary>
+</member><member name="P:ExactOnline.Client.Models.Asset.InvestmentAccountName">
+	<summary>Readonly Field</summary>
+</member><member name="P:ExactOnline.Client.Models.Asset.InvestmentCurrencyDescription">
+	<summary>Readonly Field</summary>
+</member><member name="P:ExactOnline.Client.Models.Asset.Modified">
+	<summary>Readonly Field</summary>
+</member><member name="P:ExactOnline.Client.Models.Asset.Modifier">
+	<summary>Readonly Field</summary>
+</member><member name="P:ExactOnline.Client.Models.Asset.ModifierFullName">
+	<summary>Readonly Field</summary>
+</member><member name="P:ExactOnline.Client.Models.Asset.ParentCode">
+	<summary>Readonly Field</summary>
+</member><member name="P:ExactOnline.Client.Models.Asset.ParentDescription">
+	<summary>Readonly Field</summary>
+</member><member name="P:ExactOnline.Client.Models.Asset.PrimaryMethodCode">
+	<summary>Readonly Field</summary>
+</member><member name="P:ExactOnline.Client.Models.Asset.PrimaryMethodDescription">
+	<summary>Readonly Field</summary>
+</member><member name="P:ExactOnline.Client.Models.Asset.TransactionEntryID">
+	<summary>Readonly Field</summary>
+</member><member name="P:ExactOnline.Client.Models.Asset.TransactionEntryNo">
+	<summary>Readonly Field</summary>
+</member><member name="P:ExactOnline.Client.Models.BankAccount.BankDescription">
+	<summary>Readonly Field</summary>
+</member><member name="P:ExactOnline.Client.Models.BankAccount.Division">
+	<summary>Readonly Field</summary>
+</member><member name="P:ExactOnline.Client.Models.Budget.BudgetScenarioCode">
+	<summary>Readonly Field</summary>
+</member><member name="P:ExactOnline.Client.Models.Budget.BudgetScenarioDescription">
+	<summary>Readonly Field</summary>
+</member><member name="P:ExactOnline.Client.Models.Budget.CostcenterDescription">
+	<summary>Readonly Field</summary>
+</member><member name="P:ExactOnline.Client.Models.Budget.CostunitDescription">
+	<summary>Readonly Field</summary>
+</member><member name="P:ExactOnline.Client.Models.Budget.Created">
+	<summary>Readonly Field</summary>
+</member><member name="P:ExactOnline.Client.Models.Budget.Creator">
+	<summary>Readonly Field</summary>
+</member><member name="P:ExactOnline.Client.Models.Budget.CreatorFullName">
+	<summary>Readonly Field</summary>
+</member><member name="P:ExactOnline.Client.Models.Budget.Division">
+	<summary>Readonly Field</summary>
+</member><member name="P:ExactOnline.Client.Models.Budget.GLAccountCode">
+	<summary>Readonly Field</summary>
+</member><member name="P:ExactOnline.Client.Models.Budget.GLAccountDescription">
+	<summary>Readonly Field</summary>
+</member><member name="P:ExactOnline.Client.Models.Budget.ItemCode">
+	<summary>Readonly Field</summary>
+</member><member name="P:ExactOnline.Client.Models.Budget.ItemDescription">
+	<summary>Readonly Field</summary>
+</member><member name="P:ExactOnline.Client.Models.Budget.Modified">
+	<summary>Readonly Field</summary>
+</member><member name="P:ExactOnline.Client.Models.Budget.Modifier">
+	<summary>Readonly Field</summary>
+</member><member name="P:ExactOnline.Client.Models.Budget.ModifierFullName">
+	<summary>Readonly Field</summary>
+</member><member name="P:ExactOnline.Client.Models.Contact.AccountName">
+	<summary>Readonly Field</summary>
+</member><member name="P:ExactOnline.Client.Models.Contact.Division">
+	<summary>Readonly Field</summary>
+</member><member name="P:ExactOnline.Client.Models.Contact.Created">
+	<summary>Readonly Field</summary>
+</member><member name="P:ExactOnline.Client.Models.Contact.Creator">
+	<summary>Readonly Field</summary>
+</member><member name="P:ExactOnline.Client.Models.Contact.Modified">
+	<summary>Readonly Field</summary>
+</member><member name="P:ExactOnline.Client.Models.Contact.Modifier">
+	<summary>Readonly Field</summary>
+</member><member name="P:ExactOnline.Client.Models.Costcenter.Created">
+	<summary>Readonly Field</summary>
+</member><member name="P:ExactOnline.Client.Models.Costcenter.Creator">
+	<summary>Readonly Field</summary>
+</member><member name="P:ExactOnline.Client.Models.Costcenter.CreatorFullName">
+	<summary>Readonly Field</summary>
+</member><member name="P:ExactOnline.Client.Models.Costcenter.Division">
+	<summary>Readonly Field</summary>
+</member><member name="P:ExactOnline.Client.Models.Costcenter.Modified">
+	<summary>Readonly Field</summary>
+</member><member name="P:ExactOnline.Client.Models.Costcenter.Modifier">
+	<summary>Readonly Field</summary>
+</member><member name="P:ExactOnline.Client.Models.Costcenter.ModifierFullName">
+	<summary>Readonly Field</summary>
+</member><member name="P:ExactOnline.Client.Models.CostTransaction.AccountName">
+	<summary>Readonly Field</summary>
+</member><member name="P:ExactOnline.Client.Models.CostTransaction.Created">
+	<summary>Readonly Field</summary>
+</member><member name="P:ExactOnline.Client.Models.CostTransaction.Creator">
+	<summary>Readonly Field</summary>
+</member><member name="P:ExactOnline.Client.Models.CostTransaction.CreatorFullName">
+	<summary>Readonly Field</summary>
+</member><member name="P:ExactOnline.Client.Models.CostTransaction.Division">
+	<summary>Readonly Field</summary>
+</member><member name="P:ExactOnline.Client.Models.CostTransaction.DivisionDescription">
+	<summary>Readonly Field</summary>
+</member><member name="P:ExactOnline.Client.Models.CostTransaction.ItemDescription">
+	<summary>Readonly Field</summary>
+</member><member name="P:ExactOnline.Client.Models.CostTransaction.ItemDivisable">
+	<summary>Readonly Field</summary>
+</member><member name="P:ExactOnline.Client.Models.CostTransaction.Modified">
+	<summary>Readonly Field</summary>
+</member><member name="P:ExactOnline.Client.Models.CostTransaction.Modifier">
+	<summary>Readonly Field</summary>
+</member><member name="P:ExactOnline.Client.Models.CostTransaction.ModifierFullName">
+	<summary>Readonly Field</summary>
+</member><member name="P:ExactOnline.Client.Models.CostTransaction.ProjectAccount">
+	<summary>Readonly Field</summary>
+</member><member name="P:ExactOnline.Client.Models.CostTransaction.ProjectDescription">
+	<summary>Readonly Field</summary>
+</member><member name="P:ExactOnline.Client.Models.CostTransaction.Type">
+	<summary>Readonly Field</summary>
+</member><member name="P:ExactOnline.Client.Models.Costunit.Created">
+	<summary>Readonly Field</summary>
+</member><member name="P:ExactOnline.Client.Models.Costunit.Creator">
+	<summary>Readonly Field</summary>
+</member><member name="P:ExactOnline.Client.Models.Costunit.CreatorFullName">
+	<summary>Readonly Field</summary>
+</member><member name="P:ExactOnline.Client.Models.Costunit.Division">
+	<summary>Readonly Field</summary>
+</member><member name="P:ExactOnline.Client.Models.Costunit.Modified">
+	<summary>Readonly Field</summary>
+</member><member name="P:ExactOnline.Client.Models.Costunit.Modifier">
+	<summary>Readonly Field</summary>
+</member><member name="P:ExactOnline.Client.Models.Costunit.ModifierFullName">
+	<summary>Readonly Field</summary>
+</member><member name="P:ExactOnline.Client.Models.DepreciationMethod.Created">
+	<summary>Readonly Field</summary>
+</member><member name="P:ExactOnline.Client.Models.DepreciationMethod.Creator">
+	<summary>Readonly Field</summary>
+</member><member name="P:ExactOnline.Client.Models.DepreciationMethod.CreatorFullName">
+	<summary>Readonly Field</summary>
+</member><member name="P:ExactOnline.Client.Models.DepreciationMethod.Division">
+	<summary>Readonly Field</summary>
+</member><member name="P:ExactOnline.Client.Models.DepreciationMethod.Modified">
+	<summary>Readonly Field</summary>
+</member><member name="P:ExactOnline.Client.Models.DepreciationMethod.Modifier">
+	<summary>Readonly Field</summary>
+</member><member name="P:ExactOnline.Client.Models.DepreciationMethod.ModifierFullName">
+	<summary>Readonly Field</summary>
+</member><member name="P:ExactOnline.Client.Models.DepreciationMethod.TypeDescription">
+	<summary>Readonly Field</summary>
+</member><member name="P:ExactOnline.Client.Models.Division.CountryDescription">
+	<summary>Readonly Field</summary>
+</member><member name="P:ExactOnline.Client.Models.Division.Created">
+	<summary>Readonly Field</summary>
+</member><member name="P:ExactOnline.Client.Models.Division.Creator">
+	<summary>Readonly Field</summary>
+</member><member name="P:ExactOnline.Client.Models.Division.CurrencyDescription">
+	<summary>Readonly Field</summary>
+</member><member name="P:ExactOnline.Client.Models.Division.Modified">
+	<summary>Readonly Field</summary>
+</member><member name="P:ExactOnline.Client.Models.Division.Modifier">
+	<summary>Readonly Field</summary>
+</member><member name="P:ExactOnline.Client.Models.Document.AccountCode">
+	<summary>Readonly Field</summary>
+</member><member name="P:ExactOnline.Client.Models.Document.AccountName">
+	<summary>Readonly Field</summary>
+</member><member name="P:ExactOnline.Client.Models.Document.Created">
+	<summary>Readonly Field</summary>
+</member><member name="P:ExactOnline.Client.Models.Document.Creator">
+	<summary>Readonly Field</summary>
+</member><member name="P:ExactOnline.Client.Models.Document.Division">
+	<summary>Readonly Field</summary>
+</member><member name="P:ExactOnline.Client.Models.Document.Modified">
+	<summary>Readonly Field</summary>
+</member><member name="P:ExactOnline.Client.Models.Document.Modifier">
+	<summary>Readonly Field</summary>
+</member><member name="P:ExactOnline.Client.Models.Document.ModifierFullName">
+	<summary>Readonly Field</summary>
+</member><member name="P:ExactOnline.Client.Models.Document.TypeDescription">
+	<summary>Readonly Field</summary>
+</member><member name="P:ExactOnline.Client.Models.Employee.Created">
+	<summary>Readonly Field</summary>
+</member><member name="P:ExactOnline.Client.Models.Employee.Creator">
+	<summary>Readonly Field</summary>
+</member><member name="P:ExactOnline.Client.Models.Employee.CreatorFullName">
+	<summary>Readonly Field</summary>
+</member><member name="P:ExactOnline.Client.Models.Employee.Division">
+	<summary>Readonly Field</summary>
+</member><member name="P:ExactOnline.Client.Models.Employee.Modified">
+	<summary>Readonly Field</summary>
+</member><member name="P:ExactOnline.Client.Models.Employee.Modifier">
+	<summary>Readonly Field</summary>
+</member><member name="P:ExactOnline.Client.Models.Employee.ModifierFullName">
+	<summary>Readonly Field</summary>
+</member><member name="P:ExactOnline.Client.Models.ErrorLog.AccountName">
+	<summary>Readonly Field</summary>
+</member><member name="P:ExactOnline.Client.Models.ErrorLog.DatabaseName">
+	<summary>Readonly Field</summary>
+</member><member name="P:ExactOnline.Client.Models.ErrorLog.Division">
+	<summary>Readonly Field</summary>
+</member><member name="P:ExactOnline.Client.Models.ErrorLog.DivisionDescription">
+	<summary>Readonly Field</summary>
+</member><member name="P:ExactOnline.Client.Models.ErrorLog.KnownErrorDescription">
+	<summary>Readonly Field</summary>
+</member><member name="P:ExactOnline.Client.Models.ErrorLog.UserFullName">
+	<summary>Readonly Field</summary>
+</member><member name="P:ExactOnline.Client.Models.ExchangeRate.Created">
+	<summary>Readonly Field</summary>
+</member><member name="P:ExactOnline.Client.Models.ExchangeRate.Creator">
+	<summary>Readonly Field</summary>
+</member><member name="P:ExactOnline.Client.Models.ExchangeRate.CreatorFullName">
+	<summary>Readonly Field</summary>
+</member><member name="P:ExactOnline.Client.Models.ExchangeRate.Division">
+	<summary>Readonly Field</summary>
+</member><member name="P:ExactOnline.Client.Models.ExchangeRate.Modified">
+	<summary>Readonly Field</summary>
+</member><member name="P:ExactOnline.Client.Models.ExchangeRate.Modifier">
+	<summary>Readonly Field</summary>
+</member><member name="P:ExactOnline.Client.Models.ExchangeRate.ModifierFullName">
+	<summary>Readonly Field</summary>
+</member><member name="P:ExactOnline.Client.Models.ExchangeRate.SourceCurrencyDescription">
+	<summary>Readonly Field</summary>
+</member><member name="P:ExactOnline.Client.Models.ExchangeRate.TargetCurrency">
+	<summary>Readonly Field</summary>
+</member><member name="P:ExactOnline.Client.Models.ExchangeRate.TargetCurrencyDescription">
+	<summary>Readonly Field</summary>
+</member><member name="P:ExactOnline.Client.Models.FinancialPeriod.Created">
+	<summary>Readonly Field</summary>
+</member><member name="P:ExactOnline.Client.Models.FinancialPeriod.Creator">
+	<summary>Readonly Field</summary>
+</member><member name="P:ExactOnline.Client.Models.FinancialPeriod.CreatorFullName">
+	<summary>Readonly Field</summary>
+</member><member name="P:ExactOnline.Client.Models.FinancialPeriod.Division">
+	<summary>Readonly Field</summary>
+</member><member name="P:ExactOnline.Client.Models.FinancialPeriod.Modified">
+	<summary>Readonly Field</summary>
+</member><member name="P:ExactOnline.Client.Models.FinancialPeriod.Modifier">
+	<summary>Readonly Field</summary>
+</member><member name="P:ExactOnline.Client.Models.FinancialPeriod.ModifierFullName">
+	<summary>Readonly Field</summary>
+</member><member name="P:ExactOnline.Client.Models.GLAccount.CostcenterDescription">
+	<summary>Readonly Field</summary>
+</member><member name="P:ExactOnline.Client.Models.GLAccount.CostunitDescription">
+	<summary>Readonly Field</summary>
+</member><member name="P:ExactOnline.Client.Models.GLAccount.Created">
+	<summary>Readonly Field</summary>
+</member><member name="P:ExactOnline.Client.Models.GLAccount.Creator">
+	<summary>Readonly Field</summary>
+</member><member name="P:ExactOnline.Client.Models.GLAccount.CreatorFullName">
+	<summary>Readonly Field</summary>
+</member><member name="P:ExactOnline.Client.Models.GLAccount.Division">
+	<summary>Readonly Field</summary>
+</member><member name="P:ExactOnline.Client.Models.GLAccount.Modified">
+	<summary>Readonly Field</summary>
+</member><member name="P:ExactOnline.Client.Models.GLAccount.Modifier">
+	<summary>Readonly Field</summary>
+</member><member name="P:ExactOnline.Client.Models.GLAccount.ModifierFullName">
+	<summary>Readonly Field</summary>
+</member><member name="P:ExactOnline.Client.Models.GLAccount.TypeDescription">
+	<summary>Readonly Field</summary>
+</member><member name="P:ExactOnline.Client.Models.GLAccount.VATDescription">
+	<summary>Readonly Field</summary>
+</member><member name="P:ExactOnline.Client.Models.GLClassification.Created">
+	<summary>Readonly Field</summary>
+</member><member name="P:ExactOnline.Client.Models.GLClassification.Creator">
+	<summary>Readonly Field</summary>
+</member><member name="P:ExactOnline.Client.Models.GLClassification.CreatorFullName">
+	<summary>Readonly Field</summary>
+</member><member name="P:ExactOnline.Client.Models.GLClassification.Division">
+	<summary>Readonly Field</summary>
+</member><member name="P:ExactOnline.Client.Models.GLClassification.Modified">
+	<summary>Readonly Field</summary>
+</member><member name="P:ExactOnline.Client.Models.GLClassification.Modifier">
+	<summary>Readonly Field</summary>
+</member><member name="P:ExactOnline.Client.Models.GLClassification.ModifierFullName">
+	<summary>Readonly Field</summary>
+</member><member name="P:ExactOnline.Client.Models.GLClassification.TaxonomyNamespaceDescription">
+	<summary>Readonly Field</summary>
+</member><member name="P:ExactOnline.Client.Models.GLScheme.Created">
+	<summary>Readonly Field</summary>
+</member><member name="P:ExactOnline.Client.Models.GLScheme.Creator">
+	<summary>Readonly Field</summary>
+</member><member name="P:ExactOnline.Client.Models.GLScheme.CreatorFullName">
+	<summary>Readonly Field</summary>
+</member><member name="P:ExactOnline.Client.Models.GLScheme.Division">
+	<summary>Readonly Field</summary>
+</member><member name="P:ExactOnline.Client.Models.GLScheme.Modified">
+	<summary>Readonly Field</summary>
+</member><member name="P:ExactOnline.Client.Models.GLScheme.Modifier">
+	<summary>Readonly Field</summary>
+</member><member name="P:ExactOnline.Client.Models.GLScheme.ModifierFullName">
+	<summary>Readonly Field</summary>
+</member><member name="P:ExactOnline.Client.Models.Item.Created">
+	<summary>Readonly Field</summary>
+</member><member name="P:ExactOnline.Client.Models.Item.CreatorFullName">
+	<summary>Readonly Field</summary>
+</member><member name="P:ExactOnline.Client.Models.Item.Creator">
+	<summary>Readonly Field</summary>
+</member><member name="P:ExactOnline.Client.Models.Item.Division">
+	<summary>Readonly Field</summary>
+</member><member name="P:ExactOnline.Client.Models.Item.GLCostsCode">
+	<summary>Readonly Field</summary>
+</member><member name="P:ExactOnline.Client.Models.Item.GLCostsDescription">
+	<summary>Readonly Field</summary>
+</member><member name="P:ExactOnline.Client.Models.Item.GLRevenueCode">
+	<summary>Readonly Field</summary>
+</member><member name="P:ExactOnline.Client.Models.Item.GLRevenueDescription">
+	<summary>Readonly Field</summary>
+</member><member name="P:ExactOnline.Client.Models.Item.GLStockCode">
+	<summary>Readonly Field</summary>
+</member><member name="P:ExactOnline.Client.Models.Item.GLStockDescription">
+	<summary>Readonly Field</summary>
+</member><member name="P:ExactOnline.Client.Models.Item.ItemGroupCode">
+	<summary>Readonly Field</summary>
+</member><member name="P:ExactOnline.Client.Models.Item.ItemGroupDescription">
+	<summary>Readonly Field</summary>
+</member><member name="P:ExactOnline.Client.Models.Item.Modified">
+	<summary>Readonly Field</summary>
+</member><member name="P:ExactOnline.Client.Models.Item.ModifierFullName">
+	<summary>Readonly Field</summary>
+</member><member name="P:ExactOnline.Client.Models.Item.Modifier">
+	<summary>Readonly Field</summary>
+</member><member name="P:ExactOnline.Client.Models.Item.SalesVatCodeDescription">
+	<summary>Readonly Field</summary>
+</member><member name="P:ExactOnline.Client.Models.Item.UnitDescription">
+	<summary>Readonly Field</summary>
+</member><member name="P:ExactOnline.Client.Models.ItemGroup.Created">
+	<summary>Readonly Field</summary>
+</member><member name="P:ExactOnline.Client.Models.ItemGroup.Creator">
+	<summary>Readonly Field</summary>
+</member><member name="P:ExactOnline.Client.Models.ItemGroup.CreatorFullName">
+	<summary>Readonly Field</summary>
+</member><member name="P:ExactOnline.Client.Models.ItemGroup.Division">
+	<summary>Readonly Field</summary>
+</member><member name="P:ExactOnline.Client.Models.ItemGroup.GLCostsCode">
+	<summary>Readonly Field</summary>
+</member><member name="P:ExactOnline.Client.Models.ItemGroup.GLCostsDescription">
+	<summary>Readonly Field</summary>
+</member><member name="P:ExactOnline.Client.Models.ItemGroup.GLPurchaseAccountCode">
+	<summary>Readonly Field</summary>
+</member><member name="P:ExactOnline.Client.Models.ItemGroup.GLPurchaseAccountDescription">
+	<summary>Readonly Field</summary>
+</member><member name="P:ExactOnline.Client.Models.ItemGroup.GLPurchasePriceDifferenceCode">
+	<summary>Readonly Field</summary>
+</member><member name="P:ExactOnline.Client.Models.ItemGroup.GLPurchasePriceDifferenceDescr">
+	<summary>Readonly Field</summary>
+</member><member name="P:ExactOnline.Client.Models.ItemGroup.GLRevenueCode">
+	<summary>Readonly Field</summary>
+</member><member name="P:ExactOnline.Client.Models.ItemGroup.GLRevenueDescription">
+	<summary>Readonly Field</summary>
+</member><member name="P:ExactOnline.Client.Models.ItemGroup.GLStockCode">
+	<summary>Readonly Field</summary>
+</member><member name="P:ExactOnline.Client.Models.ItemGroup.GLStockDescription">
+	<summary>Readonly Field</summary>
+</member><member name="P:ExactOnline.Client.Models.ItemGroup.GLStockVarianceCode">
+	<summary>Readonly Field</summary>
+</member><member name="P:ExactOnline.Client.Models.ItemGroup.GLStockVarianceDescription">
+	<summary>Readonly Field</summary>
+</member><member name="P:ExactOnline.Client.Models.ItemGroup.Modified">
+	<summary>Readonly Field</summary>
+</member><member name="P:ExactOnline.Client.Models.ItemGroup.Modifier">
+	<summary>Readonly Field</summary>
+</member><member name="P:ExactOnline.Client.Models.ItemGroup.ModifierFullName">
+	<summary>Readonly Field</summary>
+</member><member name="P:ExactOnline.Client.Models.Journal.Created">
+	<summary>Readonly Field</summary>
+</member><member name="P:ExactOnline.Client.Models.Journal.Creator">
+	<summary>Readonly Field</summary>
+</member><member name="P:ExactOnline.Client.Models.Journal.CreatorFullName">
+	<summary>Readonly Field</summary>
+</member><member name="P:ExactOnline.Client.Models.Journal.CurrencyDescription">
+	<summary>Readonly Field</summary>
+</member><member name="P:ExactOnline.Client.Models.Journal.Division">
+	<summary>Readonly Field</summary>
+</member><member name="P:ExactOnline.Client.Models.Journal.GLAccountCode">
+	<summary>Readonly Field</summary>
+</member><member name="P:ExactOnline.Client.Models.Journal.GLAccountDescription">
+	<summary>Readonly Field</summary>
+</member><member name="P:ExactOnline.Client.Models.Journal.GLAccountType">
+	<summary>Readonly Field</summary>
+</member><member name="P:ExactOnline.Client.Models.Journal.Modified">
+	<summary>Readonly Field</summary>
+</member><member name="P:ExactOnline.Client.Models.Journal.Modifier">
+	<summary>Readonly Field</summary>
+</member><member name="P:ExactOnline.Client.Models.Journal.ModifierFullName">
+	<summary>Readonly Field</summary>
+</member><member name="P:ExactOnline.Client.Models.Layout.Division">
+	<summary>Readonly Field</summary>
+</member><member name="P:ExactOnline.Client.Models.Mailbox.AccountName">
+	<summary>Readonly Field</summary>
+</member><member name="P:ExactOnline.Client.Models.Mailbox.Created">
+	<summary>Readonly Field</summary>
+</member><member name="P:ExactOnline.Client.Models.Mailbox.Creator">
+	<summary>Readonly Field</summary>
+</member><member name="P:ExactOnline.Client.Models.Mailbox.CreatorFullName">
+	<summary>Readonly Field</summary>
+</member><member name="P:ExactOnline.Client.Models.Mailbox.ForDivisionDescription">
+	<summary>Readonly Field</summary>
+</member><member name="P:ExactOnline.Client.Models.Mailbox.Modified">
+	<summary>Readonly Field</summary>
+</member><member name="P:ExactOnline.Client.Models.Mailbox.Modifier">
+	<summary>Readonly Field</summary>
+</member><member name="P:ExactOnline.Client.Models.Mailbox.ModifierFullName">
+	<summary>Readonly Field</summary>
+</member><member name="P:ExactOnline.Client.Models.MailMessage.Created">
+	<summary>Readonly Field</summary>
+</member><member name="P:ExactOnline.Client.Models.MailMessage.Creator">
+	<summary>Readonly Field</summary>
+</member><member name="P:ExactOnline.Client.Models.MailMessage.CreatorFullName">
+	<summary>Readonly Field</summary>
+</member><member name="P:ExactOnline.Client.Models.MailMessage.Modified">
+	<summary>Readonly Field</summary>
+</member><member name="P:ExactOnline.Client.Models.MailMessage.Modifier">
+	<summary>Readonly Field</summary>
+</member><member name="P:ExactOnline.Client.Models.MailMessage.ModifierFullName">
+	<summary>Readonly Field</summary>
+</member><member name="P:ExactOnline.Client.Models.MailMessage.OriginalMessageSubject">
+	<summary>Readonly Field</summary>
+</member><member name="P:ExactOnline.Client.Models.MailMessage.RecipientAccount">
+	<summary>Readonly Field</summary>
+</member><member name="P:ExactOnline.Client.Models.MailMessage.RecipientMailbox">
+	<summary>Readonly Field</summary>
+</member><member name="P:ExactOnline.Client.Models.MailMessage.RecipientMailboxDescription">
+	<summary>Readonly Field</summary>
+</member><member name="P:ExactOnline.Client.Models.MailMessage.RecipientStatusDescription">
+	<summary>Readonly Field</summary>
+</member><member name="P:ExactOnline.Client.Models.MailMessage.SenderAccount">
+	<summary>Readonly Field</summary>
+</member><member name="P:ExactOnline.Client.Models.MailMessage.SenderMailbox">
+	<summary>Readonly Field</summary>
+</member><member name="P:ExactOnline.Client.Models.MailMessage.SenderMailboxDescription">
+	<summary>Readonly Field</summary>
+</member><member name="P:ExactOnline.Client.Models.MailMessageAttachment.AttachmentFileExtension">
+	<summary>Readonly Field</summary>
+</member><member name="P:ExactOnline.Client.Models.MailMessageAttachment.TypeDescription">
+	<summary>Readonly Field</summary>
+</member><member name="P:ExactOnline.Client.Models.OAuthClient.AccountName">
+	<summary>Readonly Field</summary>
+</member><member name="P:ExactOnline.Client.Models.OAuthClient.ClientSecret">
+	<summary>Readonly Field</summary>
+</member><member name="P:ExactOnline.Client.Models.OAuthClient.Created">
+	<summary>Readonly Field</summary>
+</member><member name="P:ExactOnline.Client.Models.OAuthClient.Creator">
+	<summary>Readonly Field</summary>
+</member><member name="P:ExactOnline.Client.Models.OAuthClient.Modified">
+	<summary>Readonly Field</summary>
+</member><member name="P:ExactOnline.Client.Models.OAuthClient.Modifier">
+	<summary>Readonly Field</summary>
+</member><member name="P:ExactOnline.Client.Models.Operation.Created">
+	<summary>Readonly Field</summary>
+</member><member name="P:ExactOnline.Client.Models.Operation.Creator">
+	<summary>Readonly Field</summary>
+</member><member name="P:ExactOnline.Client.Models.Operation.CreatorFullName">
+	<summary>Readonly Field</summary>
+</member><member name="P:ExactOnline.Client.Models.Operation.Division">
+	<summary>Readonly Field</summary>
+</member><member name="P:ExactOnline.Client.Models.Operation.ItemDescription">
+	<summary>Readonly Field</summary>
+</member><member name="P:ExactOnline.Client.Models.Operation.Modified">
+	<summary>Readonly Field</summary>
+</member><member name="P:ExactOnline.Client.Models.Operation.Modifier">
+	<summary>Readonly Field</summary>
+</member><member name="P:ExactOnline.Client.Models.Operation.ModifierFullName">
+	<summary>Readonly Field</summary>
+</member><member name="P:ExactOnline.Client.Models.OperationResource.Created">
+	<summary>Readonly Field</summary>
+</member><member name="P:ExactOnline.Client.Models.OperationResource.Creator">
+	<summary>Readonly Field</summary>
+</member><member name="P:ExactOnline.Client.Models.OperationResource.CreatorFullName">
+	<summary>Readonly Field</summary>
+</member><member name="P:ExactOnline.Client.Models.OperationResource.Division">
+	<summary>Readonly Field</summary>
+</member><member name="P:ExactOnline.Client.Models.OperationResource.Modified">
+	<summary>Readonly Field</summary>
+</member><member name="P:ExactOnline.Client.Models.OperationResource.Modifier">
+	<summary>Readonly Field</summary>
+</member><member name="P:ExactOnline.Client.Models.OperationResource.ModifierFullName">
+	<summary>Readonly Field</summary>
+</member><member name="P:ExactOnline.Client.Models.OperationResource.OperationDescription">
+	<summary>Readonly Field</summary>
+</member><member name="P:ExactOnline.Client.Models.OperationResource.WorkcenterDescription">
+	<summary>Readonly Field</summary>
+</member><member name="P:ExactOnline.Client.Models.Opportunity.AccountCode">
+	<summary>Readonly Field</summary>
+</member><member name="P:ExactOnline.Client.Models.Opportunity.Created">
+	<summary>Readonly Field</summary>
+</member><member name="P:ExactOnline.Client.Models.Opportunity.Creator">
+	<summary>Readonly Field</summary>
+</member><member name="P:ExactOnline.Client.Models.Opportunity.Modified">
+	<summary>Readonly Field</summary>
+</member><member name="P:ExactOnline.Client.Models.Opportunity.Modifier">
+	<summary>Readonly Field</summary>
+</member><member name="P:ExactOnline.Client.Models.Opportunity.Division">
+	<summary>Readonly Field</summary>
+</member><member name="P:ExactOnline.Client.Models.Opportunity.OpportunityStatus">
+	<summary>Readonly Field</summary>
+</member><member name="P:ExactOnline.Client.Models.Opportunity.CampaignDescription">
+	<summary>Readonly Field</summary>
+</member><member name="P:ExactOnline.Client.Models.OpportunityContact.Division">
+	<summary>Readonly Field</summary>
+</member><member name="P:ExactOnline.Client.Models.OpportunityContact.Created">
+	<summary>Readonly Field</summary>
+</member><member name="P:ExactOnline.Client.Models.OpportunityContact.Creator">
+	<summary>Readonly Field</summary>
+</member><member name="P:ExactOnline.Client.Models.OpportunityContact.Modified">
+	<summary>Readonly Field</summary>
+</member><member name="P:ExactOnline.Client.Models.OpportunityContact.Modifier">
+	<summary>Readonly Field</summary>
+</member><member name="P:ExactOnline.Client.Models.OpportunityStage.Division">
+	<summary>Readonly Field</summary>
+</member><member name="P:ExactOnline.Client.Models.PartnerKey.Created">
+	<summary>Readonly Field</summary>
+</member><member name="P:ExactOnline.Client.Models.PartnerKey.Creator">
+	<summary>Readonly Field</summary>
+</member><member name="P:ExactOnline.Client.Models.PartnerKey.CreatorFullName">
+	<summary>Readonly Field</summary>
+</member><member name="P:ExactOnline.Client.Models.PartnerKey.Division">
+	<summary>Readonly Field</summary>
+</member><member name="P:ExactOnline.Client.Models.PartnerKey.ForAccountName">
+	<summary>Readonly Field</summary>
+</member><member name="P:ExactOnline.Client.Models.PartnerKey.Modified">
+	<summary>Readonly Field</summary>
+</member><member name="P:ExactOnline.Client.Models.PartnerKey.Modifier">
+	<summary>Readonly Field</summary>
+</member><member name="P:ExactOnline.Client.Models.PartnerKey.ModifierFullName">
+	<summary>Readonly Field</summary>
+</member><member name="P:ExactOnline.Client.Models.PaymentCondition.Created">
+	<summary>Readonly Field</summary>
+</member><member name="P:ExactOnline.Client.Models.PaymentCondition.Creator">
+	<summary>Readonly Field</summary>
+</member><member name="P:ExactOnline.Client.Models.PaymentCondition.CreatorFullName">
+	<summary>Readonly Field</summary>
+</member><member name="P:ExactOnline.Client.Models.PaymentCondition.CreditManagementScenarioCode">
+	<summary>Readonly Field</summary>
+</member><member name="P:ExactOnline.Client.Models.PaymentCondition.CreditManagementScenarioDescription">
+	<summary>Readonly Field</summary>
+</member><member name="P:ExactOnline.Client.Models.PaymentCondition.Division">
+	<summary>Readonly Field</summary>
+</member><member name="P:ExactOnline.Client.Models.PaymentCondition.Modified">
+	<summary>Readonly Field</summary>
+</member><member name="P:ExactOnline.Client.Models.PaymentCondition.Modifier">
+	<summary>Readonly Field</summary>
+</member><member name="P:ExactOnline.Client.Models.PaymentCondition.ModifierFullName">
+	<summary>Readonly Field</summary>
+</member><member name="P:ExactOnline.Client.Models.PerformanceCounterMeasurement.Created">
+	<summary>Readonly Field</summary>
+</member><member name="P:ExactOnline.Client.Models.PerformanceCounterMeasurement.Creator">
+	<summary>Readonly Field</summary>
+</member><member name="P:ExactOnline.Client.Models.PerformanceCounterMeasurement.CreatorFullName">
+	<summary>Readonly Field</summary>
+</member><member name="P:ExactOnline.Client.Models.PerformanceCounterMeasurement.Modified">
+	<summary>Readonly Field</summary>
+</member><member name="P:ExactOnline.Client.Models.PerformanceCounterMeasurement.Modifier">
+	<summary>Readonly Field</summary>
+</member><member name="P:ExactOnline.Client.Models.PerformanceCounterMeasurement.ModifierFullName">
+	<summary>Readonly Field</summary>
+</member><member name="P:ExactOnline.Client.Models.PerformanceCounterMeasurement.PerformanceCounterDescription">
+	<summary>Readonly Field</summary>
+</member><member name="P:ExactOnline.Client.Models.PerformanceCounterMeasurement.ServerGroupDescription">
+	<summary>Readonly Field</summary>
+</member><member name="P:ExactOnline.Client.Models.PerformanceCounterMeasurement.ServerMachineDescription">
+	<summary>Readonly Field</summary>
+</member><member name="P:ExactOnline.Client.Models.Picture.Division">
+	<summary>Readonly Field</summary>
+</member><member name="P:ExactOnline.Client.Models.PriceList.Created">
+	<summary>Readonly Field</summary>
+</member><member name="P:ExactOnline.Client.Models.PriceList.Creator">
+	<summary>Readonly Field</summary>
+</member><member name="P:ExactOnline.Client.Models.PriceList.CreatorFullName">
+	<summary>Readonly Field</summary>
+</member><member name="P:ExactOnline.Client.Models.PriceList.Division">
+	<summary>Readonly Field</summary>
+</member><member name="P:ExactOnline.Client.Models.PriceList.DivisionDescription">
+	<summary>Readonly Field</summary>
+</member><member name="P:ExactOnline.Client.Models.PriceList.Modified">
+	<summary>Readonly Field</summary>
+</member><member name="P:ExactOnline.Client.Models.PriceList.Modifier">
+	<summary>Readonly Field</summary>
+</member><member name="P:ExactOnline.Client.Models.PriceList.ModifierFullName">
+	<summary>Readonly Field</summary>
+</member><member name="P:ExactOnline.Client.Models.ProductionArea.CostcenterDescription">
+	<summary>Readonly Field</summary>
+</member><member name="P:ExactOnline.Client.Models.ProductionArea.CostunitDescription">
+	<summary>Readonly Field</summary>
+</member><member name="P:ExactOnline.Client.Models.ProductionArea.Created">
+	<summary>Readonly Field</summary>
+</member><member name="P:ExactOnline.Client.Models.ProductionArea.Creator">
+	<summary>Readonly Field</summary>
+</member><member name="P:ExactOnline.Client.Models.ProductionArea.CreatorFullName">
+	<summary>Readonly Field</summary>
+</member><member name="P:ExactOnline.Client.Models.ProductionArea.Division">
+	<summary>Readonly Field</summary>
+</member><member name="P:ExactOnline.Client.Models.ProductionArea.Modified">
+	<summary>Readonly Field</summary>
+</member><member name="P:ExactOnline.Client.Models.ProductionArea.Modifier">
+	<summary>Readonly Field</summary>
+</member><member name="P:ExactOnline.Client.Models.ProductionArea.ModifierFullName">
+	<summary>Readonly Field</summary>
+</member><member name="P:ExactOnline.Client.Models.Project.AccountName">
+	<summary>Readonly Field</summary>
+</member><member name="P:ExactOnline.Client.Models.Project.ClassificationDescription">
+	<summary>Readonly Field</summary>
+</member><member name="P:ExactOnline.Client.Models.Project.Created">
+	<summary>Readonly Field</summary>
+</member><member name="P:ExactOnline.Client.Models.Project.Creator">
+	<summary>Readonly Field</summary>
+</member><member name="P:ExactOnline.Client.Models.Project.CreatorFullName">
+	<summary>Readonly Field</summary>
+</member><member name="P:ExactOnline.Client.Models.Project.Division">
+	<summary>Readonly Field</summary>
+</member><member name="P:ExactOnline.Client.Models.Project.DivisionName">
+	<summary>Readonly Field</summary>
+</member><member name="P:ExactOnline.Client.Models.Project.FixedPriceItemDescription">
+	<summary>Readonly Field</summary>
+</member><member name="P:ExactOnline.Client.Models.Project.ManagerFullname">
+	<summary>Readonly Field</summary>
+</member><member name="P:ExactOnline.Client.Models.Project.Modified">
+	<summary>Readonly Field</summary>
+</member><member name="P:ExactOnline.Client.Models.Project.Modifier">
+	<summary>Readonly Field</summary>
+</member><member name="P:ExactOnline.Client.Models.Project.ModifierFullName">
+	<summary>Readonly Field</summary>
+</member><member name="P:ExactOnline.Client.Models.Project.TypeDescription">
+	<summary>Readonly Field</summary>
+</member><member name="P:ExactOnline.Client.Models.PurchaseEntryLine.AssetDescription">
+	<summary>Readonly Field</summary>
+</member><member name="P:ExactOnline.Client.Models.PurchaseEntryLine.Division">
+	<summary>Readonly Field</summary>
+</member><member name="P:ExactOnline.Client.Models.PurchaseEntryLine.GLAccountCode">
+	<summary>Readonly Field</summary>
+</member><member name="P:ExactOnline.Client.Models.PurchaseEntryLine.GLAccountDescription">
+	<summary>Readonly Field</summary>
+</member><member name="P:ExactOnline.Client.Models.PurchaseEntryLine.ProjectDescription">
+	<summary>Readonly Field</summary>
+</member><member name="P:ExactOnline.Client.Models.Request.AccountCode">
+	<summary>Readonly Field</summary>
+</member><member name="P:ExactOnline.Client.Models.Request.AccountCountry">
+	<summary>Readonly Field</summary>
+</member><member name="P:ExactOnline.Client.Models.Request.AccountName">
+	<summary>Readonly Field</summary>
+</member><member name="P:ExactOnline.Client.Models.Request.AccountStatus">
+	<summary>Readonly Field</summary>
+</member><member name="P:ExactOnline.Client.Models.Request.AccountType">
+	<summary>Readonly Field</summary>
+</member><member name="P:ExactOnline.Client.Models.Request.ApproverFullName">
+	<summary>Readonly Field</summary>
+</member><member name="P:ExactOnline.Client.Models.Request.CampaignDescription">
+	<summary>Readonly Field</summary>
+</member><member name="P:ExactOnline.Client.Models.Request.ContactFullName">
+	<summary>Readonly Field</summary>
+</member><member name="P:ExactOnline.Client.Models.Request.ContactHID">
+	<summary>Readonly Field</summary>
+</member><member name="P:ExactOnline.Client.Models.Request.Created">
+	<summary>Readonly Field</summary>
+</member><member name="P:ExactOnline.Client.Models.Request.Creator">
+	<summary>Readonly Field</summary>
+</member><member name="P:ExactOnline.Client.Models.Request.CurrencyDescription">
+	<summary>Readonly Field</summary>
+</member><member name="P:ExactOnline.Client.Models.Request.CurrencyDescriptionActual">
+	<summary>Readonly Field</summary>
+</member><member name="P:ExactOnline.Client.Models.Request.Division">
+	<summary>Readonly Field</summary>
+</member><member name="P:ExactOnline.Client.Models.Request.DocumentCreated">
+	<summary>Readonly Field</summary>
+</member><member name="P:ExactOnline.Client.Models.Request.DocumentCreatorFullName">
+	<summary>Readonly Field</summary>
+</member><member name="P:ExactOnline.Client.Models.Request.DocumentHID">
+	<summary>Readonly Field</summary>
+</member><member name="P:ExactOnline.Client.Models.Request.DocumentSubject">
+	<summary>Readonly Field</summary>
+</member><member name="P:ExactOnline.Client.Models.Request.EmployeeFullName">
+	<summary>Readonly Field</summary>
+</member><member name="P:ExactOnline.Client.Models.Request.EmployeeHID">
+	<summary>Readonly Field</summary>
+</member><member name="P:ExactOnline.Client.Models.Request.FinancialEntryDate">
+	<summary>Readonly Field</summary>
+</member><member name="P:ExactOnline.Client.Models.Request.FinancialEntryDescription">
+	<summary>Readonly Field</summary>
+</member><member name="P:ExactOnline.Client.Models.Request.FinancialEntryNumber">
+	<summary>Readonly Field</summary>
+</member><member name="P:ExactOnline.Client.Models.Request.FinancialEntryTypeDescription">
+	<summary>Readonly Field</summary>
+</member><member name="P:ExactOnline.Client.Models.Request.HelpFileDescription">
+	<summary>Readonly Field</summary>
+</member><member name="P:ExactOnline.Client.Models.Request.ItemCode_1">
+	<summary>Readonly Field</summary>
+</member><member name="P:ExactOnline.Client.Models.Request.ItemCode_2">
+	<summary>Readonly Field</summary>
+</member><member name="P:ExactOnline.Client.Models.Request.ItemDescription_1">
+	<summary>Readonly Field</summary>
+</member><member name="P:ExactOnline.Client.Models.Request.ItemDescription_2">
+	<summary>Readonly Field</summary>
+</member><member name="P:ExactOnline.Client.Models.Request.ItemGroup_1">
+	<summary>Readonly Field</summary>
+</member><member name="P:ExactOnline.Client.Models.Request.ItemGroup_2">
+	<summary>Readonly Field</summary>
+</member><member name="P:ExactOnline.Client.Models.Request.LeadName">
+	<summary>Readonly Field</summary>
+</member><member name="P:ExactOnline.Client.Models.Request.Modified">
+	<summary>Readonly Field</summary>
+</member><member name="P:ExactOnline.Client.Models.Request.Modifier">
+	<summary>Readonly Field</summary>
+</member><member name="P:ExactOnline.Client.Models.Request.OpportunityDescription">
+	<summary>Readonly Field</summary>
+</member><member name="P:ExactOnline.Client.Models.Request.PayrollComponentDescription">
+	<summary>Readonly Field</summary>
+</member><member name="P:ExactOnline.Client.Models.Request.Person">
+	<summary>Readonly Field</summary>
+</member><member name="P:ExactOnline.Client.Models.Request.ProcessorFullName">
+	<summary>Readonly Field</summary>
+</member><member name="P:ExactOnline.Client.Models.Request.ProjectDescription">
+	<summary>Readonly Field</summary>
+</member><member name="P:ExactOnline.Client.Models.Request.RealizerFullName">
+	<summary>Readonly Field</summary>
+</member><member name="P:ExactOnline.Client.Models.Request.TypeHID">
+	<summary>Readonly Field</summary>
+</member><member name="P:ExactOnline.Client.Models.Request.TypeDescription">
+	<summary>Readonly Field</summary>
+</member><member name="P:ExactOnline.Client.Models.Request.UserFullName">
+	<summary>Readonly Field</summary>
+</member><member name="P:ExactOnline.Client.Models.Request.UserHID">
+	<summary>Readonly Field</summary>
+</member><member name="P:ExactOnline.Client.Models.SalesEntryLine.AssetDescription">
+	<summary>Readonly Field</summary>
+</member><member name="P:ExactOnline.Client.Models.SalesEntryLine.Division">
+	<summary>Readonly Field</summary>
+</member><member name="P:ExactOnline.Client.Models.SalesEntryLine.GLAccountCode">
+	<summary>Readonly Field</summary>
+</member><member name="P:ExactOnline.Client.Models.SalesEntryLine.GLAccountDescription">
+	<summary>Readonly Field</summary>
+</member><member name="P:ExactOnline.Client.Models.SalesEntryLine.ProjectDescription">
+	<summary>Readonly Field</summary>
+</member><member name="P:ExactOnline.Client.Models.SalesEntryLine.SubscriptionDescription">
+	<summary>Readonly Field</summary>
+</member><member name="P:ExactOnline.Client.Models.SalesInvoiceLine.Division">
+	<summary>Readonly Field</summary>
+</member><member name="P:ExactOnline.Client.Models.SalesInvoiceLine.GLAccountDescription">
+	<summary>Readonly Field</summary>
+</member><member name="P:ExactOnline.Client.Models.SalesInvoiceLine.ItemDescription">
+	<summary>Readonly Field</summary>
+</member><member name="P:ExactOnline.Client.Models.SalesInvoiceLine.ProjectDescription">
+	<summary>Readonly Field</summary>
+</member><member name="P:ExactOnline.Client.Models.SalesInvoiceLine.SubscriptionDescription">
+	<summary>Readonly Field</summary>
+</member><member name="P:ExactOnline.Client.Models.SalesInvoiceLine.UnitDescription">
+	<summary>Readonly Field</summary>
+</member><member name="P:ExactOnline.Client.Models.SalesOrderLine.Division">
+	<summary>Readonly Field</summary>
+</member><member name="P:ExactOnline.Client.Models.SalesOrderLine.ItemDescription">
+	<summary>Readonly Field</summary>
+</member><member name="P:ExactOnline.Client.Models.SalesOrderLine.ItemCode">
+	<summary>Readonly Field</summary>
+</member><member name="P:ExactOnline.Client.Models.SalesOrderLine.UnitDescription">
+	<summary>Readonly Field</summary>
+</member><member name="P:ExactOnline.Client.Models.ShopOrder.CostcenterDescription">
+	<summary>Readonly Field</summary>
+</member><member name="P:ExactOnline.Client.Models.ShopOrder.CostunitDescription">
+	<summary>Readonly Field</summary>
+</member><member name="P:ExactOnline.Client.Models.ShopOrder.Created">
+	<summary>Readonly Field</summary>
+</member><member name="P:ExactOnline.Client.Models.ShopOrder.Creator">
+	<summary>Readonly Field</summary>
+</member><member name="P:ExactOnline.Client.Models.ShopOrder.CreatorFullName">
+	<summary>Readonly Field</summary>
+</member><member name="P:ExactOnline.Client.Models.ShopOrder.Division">
+	<summary>Readonly Field</summary>
+</member><member name="P:ExactOnline.Client.Models.ShopOrder.Modified">
+	<summary>Readonly Field</summary>
+</member><member name="P:ExactOnline.Client.Models.ShopOrder.Modifier">
+	<summary>Readonly Field</summary>
+</member><member name="P:ExactOnline.Client.Models.ShopOrder.ModifierFullName">
+	<summary>Readonly Field</summary>
+</member><member name="P:ExactOnline.Client.Models.ShopOrderMaterialPlan.Created">
+	<summary>Readonly Field</summary>
+</member><member name="P:ExactOnline.Client.Models.ShopOrderMaterialPlan.Creator">
+	<summary>Readonly Field</summary>
+</member><member name="P:ExactOnline.Client.Models.ShopOrderMaterialPlan.CreatorFullName">
+	<summary>Readonly Field</summary>
+</member><member name="P:ExactOnline.Client.Models.ShopOrderMaterialPlan.Division">
+	<summary>Readonly Field</summary>
+</member><member name="P:ExactOnline.Client.Models.ShopOrderMaterialPlan.ItemDescription">
+	<summary>Readonly Field</summary>
+</member><member name="P:ExactOnline.Client.Models.ShopOrderMaterialPlan.Modified">
+	<summary>Readonly Field</summary>
+</member><member name="P:ExactOnline.Client.Models.ShopOrderMaterialPlan.Modifier">
+	<summary>Readonly Field</summary>
+</member><member name="P:ExactOnline.Client.Models.ShopOrderMaterialPlan.ModifierFullName">
+	<summary>Readonly Field</summary>
+</member><member name="P:ExactOnline.Client.Models.ShopOrderMaterialPlan.StatusDescription">
+	<summary>Readonly Field</summary>
+</member><member name="P:ExactOnline.Client.Models.ShopOrderRoutingStepPlan.Created">
+	<summary>Readonly Field</summary>
+</member><member name="P:ExactOnline.Client.Models.ShopOrderRoutingStepPlan.Creator">
+	<summary>Readonly Field</summary>
+</member><member name="P:ExactOnline.Client.Models.ShopOrderRoutingStepPlan.CreatorFullName">
+	<summary>Readonly Field</summary>
+</member><member name="P:ExactOnline.Client.Models.ShopOrderRoutingStepPlan.Division">
+	<summary>Readonly Field</summary>
+</member><member name="P:ExactOnline.Client.Models.ShopOrderRoutingStepPlan.Modified">
+	<summary>Readonly Field</summary>
+</member><member name="P:ExactOnline.Client.Models.ShopOrderRoutingStepPlan.Modifier">
+	<summary>Readonly Field</summary>
+</member><member name="P:ExactOnline.Client.Models.ShopOrderRoutingStepPlan.ModifierFullName">
+	<summary>Readonly Field</summary>
+</member><member name="P:ExactOnline.Client.Models.ShopOrderRoutingStepPlan.RunMethodDescription">
+	<summary>Readonly Field</summary>
+</member><member name="P:ExactOnline.Client.Models.ShopOrderRoutingStepPlan.StatusDescription">
+	<summary>Readonly Field</summary>
+</member><member name="P:ExactOnline.Client.Models.Subscription.Division">
+	<summary>Readonly Field</summary>
+</member><member name="P:ExactOnline.Client.Models.SubscriptionLine.Division">
+	<summary>Readonly Field</summary>
+</member><member name="P:ExactOnline.Client.Models.SubscriptionLine.ItemDescription">
+	<summary>Readonly Field</summary>
+</member><member name="P:ExactOnline.Client.Models.SubscriptionLine.UnitDescription">
+	<summary>Readonly Field</summary>
+</member><member name="P:ExactOnline.Client.Models.SubscriptionReasonCode.Created">
+	<summary>Readonly Field</summary>
+</member><member name="P:ExactOnline.Client.Models.SubscriptionReasonCode.Creator">
+	<summary>Readonly Field</summary>
+</member><member name="P:ExactOnline.Client.Models.SubscriptionReasonCode.Division">
+	<summary>Readonly Field</summary>
+</member><member name="P:ExactOnline.Client.Models.SubscriptionReasonCode.Modified">
+	<summary>Readonly Field</summary>
+</member><member name="P:ExactOnline.Client.Models.SubscriptionReasonCode.Modifier">
+	<summary>Readonly Field</summary>
+</member><member name="P:ExactOnline.Client.Models.SubscriptionType.Division">
+	<summary>Readonly Field</summary>
+</member><member name="P:ExactOnline.Client.Models.TimeTransaction.AccountName">
+	<summary>Readonly Field</summary>
+</member><member name="P:ExactOnline.Client.Models.TimeTransaction.Created">
+	<summary>Readonly Field</summary>
+</member><member name="P:ExactOnline.Client.Models.TimeTransaction.Creator">
+	<summary>Readonly Field</summary>
+</member><member name="P:ExactOnline.Client.Models.TimeTransaction.CreatorFullName">
+	<summary>Readonly Field</summary>
+</member><member name="P:ExactOnline.Client.Models.TimeTransaction.Division">
+	<summary>Readonly Field</summary>
+</member><member name="P:ExactOnline.Client.Models.TimeTransaction.DivisionDescription">
+	<summary>Readonly Field</summary>
+</member><member name="P:ExactOnline.Client.Models.TimeTransaction.ItemDescription">
+	<summary>Readonly Field</summary>
+</member><member name="P:ExactOnline.Client.Models.TimeTransaction.ItemDivisable">
+	<summary>Readonly Field</summary>
+</member><member name="P:ExactOnline.Client.Models.TimeTransaction.Modified">
+	<summary>Readonly Field</summary>
+</member><member name="P:ExactOnline.Client.Models.TimeTransaction.Modifier">
+	<summary>Readonly Field</summary>
+</member><member name="P:ExactOnline.Client.Models.TimeTransaction.ModifierFullName">
+	<summary>Readonly Field</summary>
+</member><member name="P:ExactOnline.Client.Models.TimeTransaction.ProjectAccount">
+	<summary>Readonly Field</summary>
+</member><member name="P:ExactOnline.Client.Models.TimeTransaction.ProjectDescription">
+	<summary>Readonly Field</summary>
+</member><member name="P:ExactOnline.Client.Models.TimeTransaction.Type">
+	<summary>Readonly Field</summary>
+</member><member name="P:ExactOnline.Client.Models.Unit.Division">
+	<summary>Readonly Field</summary>
+</member><member name="P:ExactOnline.Client.Models.UserRole.RoleLevel">
+	<summary>Readonly Field</summary>
+</member><member name="P:ExactOnline.Client.Models.UserRole.StartDate">
+	<summary>Readonly Field</summary>
+</member><member name="P:ExactOnline.Client.Models.UserRole.EndDate">
+	<summary>Readonly Field</summary>
+</member><member name="P:ExactOnline.Client.Models.VATCode.AccountCode">
+	<summary>Readonly Field</summary>
+</member><member name="P:ExactOnline.Client.Models.VATCode.AccountName">
+	<summary>Readonly Field</summary>
+</member><member name="P:ExactOnline.Client.Models.VATCode.Created">
+	<summary>Readonly Field</summary>
+</member><member name="P:ExactOnline.Client.Models.VATCode.Creator">
+	<summary>Readonly Field</summary>
+</member><member name="P:ExactOnline.Client.Models.VATCode.CreatorFullName">
+	<summary>Readonly Field</summary>
+</member><member name="P:ExactOnline.Client.Models.VATCode.Division">
+	<summary>Readonly Field</summary>
+</member><member name="P:ExactOnline.Client.Models.VATCode.GLDiscountPurchaseCode">
+	<summary>Readonly Field</summary>
+</member><member name="P:ExactOnline.Client.Models.VATCode.GLDiscountPurchaseDescription">
+	<summary>Readonly Field</summary>
+</member><member name="P:ExactOnline.Client.Models.VATCode.GLDiscountSalesCode">
+	<summary>Readonly Field</summary>
+</member><member name="P:ExactOnline.Client.Models.VATCode.GLDiscountSalesDescription">
+	<summary>Readonly Field</summary>
+</member><member name="P:ExactOnline.Client.Models.VATCode.GLToClaimCode">
+	<summary>Readonly Field</summary>
+</member><member name="P:ExactOnline.Client.Models.VATCode.GLToClaimDescription">
+	<summary>Readonly Field</summary>
+</member><member name="P:ExactOnline.Client.Models.VATCode.GLToPayCode">
+	<summary>Readonly Field</summary>
+</member><member name="P:ExactOnline.Client.Models.VATCode.GLToPayDescription">
+	<summary>Readonly Field</summary>
+</member><member name="P:ExactOnline.Client.Models.VATCode.Modified">
+	<summary>Readonly Field</summary>
+</member><member name="P:ExactOnline.Client.Models.VATCode.Modifier">
+	<summary>Readonly Field</summary>
+</member><member name="P:ExactOnline.Client.Models.VATCode.ModifierFullName">
+	<summary>Readonly Field</summary>
+</member><member name="P:ExactOnline.Client.Models.VatPercentage.Created">
+	<summary>Readonly Field</summary>
+</member><member name="P:ExactOnline.Client.Models.VatPercentage.Creator">
+	<summary>Readonly Field</summary>
+</member><member name="P:ExactOnline.Client.Models.VatPercentage.Division">
+	<summary>Readonly Field</summary>
+</member><member name="P:ExactOnline.Client.Models.VatPercentage.Modified">
+	<summary>Readonly Field</summary>
+</member><member name="P:ExactOnline.Client.Models.VatPercentage.Modifier">
+	<summary>Readonly Field</summary>
+</member><member name="P:ExactOnline.Client.Models.Warehouse.Created">
+	<summary>Readonly Field</summary>
+</member><member name="P:ExactOnline.Client.Models.Warehouse.Creator">
+	<summary>Readonly Field</summary>
+</member><member name="P:ExactOnline.Client.Models.Warehouse.CreatorFullName">
+	<summary>Readonly Field</summary>
+</member><member name="P:ExactOnline.Client.Models.Warehouse.Division">
+	<summary>Readonly Field</summary>
+</member><member name="P:ExactOnline.Client.Models.Warehouse.Modified">
+	<summary>Readonly Field</summary>
+</member><member name="P:ExactOnline.Client.Models.Warehouse.Modifier">
+	<summary>Readonly Field</summary>
+</member><member name="P:ExactOnline.Client.Models.Warehouse.ModifierFullName">
+	<summary>Readonly Field</summary>
+</member><member name="P:ExactOnline.Client.Models.Workcenter.CostcenterDescription">
+	<summary>Readonly Field</summary>
+</member><member name="P:ExactOnline.Client.Models.Workcenter.CostunitDescription">
+	<summary>Readonly Field</summary>
+</member><member name="P:ExactOnline.Client.Models.Workcenter.Created">
+	<summary>Readonly Field</summary>
+</member><member name="P:ExactOnline.Client.Models.Workcenter.Creator">
+	<summary>Readonly Field</summary>
+</member><member name="P:ExactOnline.Client.Models.Workcenter.CreatorFullName">
+	<summary>Readonly Field</summary>
+</member><member name="P:ExactOnline.Client.Models.Workcenter.Division">
+	<summary>Readonly Field</summary>
+</member><member name="P:ExactOnline.Client.Models.Workcenter.Modified">
+	<summary>Readonly Field</summary>
+</member><member name="P:ExactOnline.Client.Models.Workcenter.Modifier">
+	<summary>Readonly Field</summary>
+</member><member name="P:ExactOnline.Client.Models.Workcenter.ModifierFullName">
+	<summary>Readonly Field</summary>
+</member><member name="P:ExactOnline.Client.Models.My.Resources.Resources.ResourceManager">
+	<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member><member name="P:ExactOnline.Client.Models.My.Resources.Resources.Culture">
+	<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member><member name="T:ExactOnline.Client.Models.My.Resources.Resources">
+	<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+</members>
+</doc>

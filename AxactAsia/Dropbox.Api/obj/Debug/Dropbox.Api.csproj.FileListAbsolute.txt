@@ -1,0 +1,15 @@
+G:\Projects\AxactAsia\Dropbox.Api\bin\Debug\Dropbox.Api.dll
+G:\Projects\AxactAsia\Dropbox.Api\bin\Debug\Dropbox.Api.pdb
+G:\Projects\AxactAsia\Dropbox.Api\bin\Debug\Newtonsoft.Json.dll
+G:\Projects\AxactAsia\Dropbox.Api\bin\Debug\OAuthProtocol.dll
+G:\Projects\AxactAsia\Dropbox.Api\bin\Debug\OAuthProtocol.pdb
+G:\Projects\AxactAsia\Dropbox.Api\obj\Debug\Dropbox.Api.csprojResolveAssemblyReference.cache
+G:\Projects\AxactAsia\Dropbox.Api\obj\Debug\Dropbox.Api.dll
+G:\Projects\AxactAsia\Dropbox.Api\obj\Debug\Dropbox.Api.pdb
+G:\Projects\Publish_AxactAsia\AxactAsia\Dropbox.Api\bin\Debug\Dropbox.Api.dll
+G:\Projects\Publish_AxactAsia\AxactAsia\Dropbox.Api\bin\Debug\Dropbox.Api.pdb
+G:\Projects\Publish_AxactAsia\AxactAsia\Dropbox.Api\bin\Debug\Newtonsoft.Json.dll
+G:\Projects\Publish_AxactAsia\AxactAsia\Dropbox.Api\bin\Debug\OAuthProtocol.dll
+G:\Projects\Publish_AxactAsia\AxactAsia\Dropbox.Api\obj\Debug\Dropbox.Api.csprojResolveAssemblyReference.cache
+G:\Projects\Publish_AxactAsia\AxactAsia\Dropbox.Api\obj\Debug\Dropbox.Api.dll
+G:\Projects\Publish_AxactAsia\AxactAsia\Dropbox.Api\obj\Debug\Dropbox.Api.pdb

@@ -1,0 +1,11 @@
+G:\Projects\AxactAsia\DataModelEdmx\bin\Debug\DataModelEdmx.dll.config
+G:\Projects\AxactAsia\DataModelEdmx\bin\Debug\DataModelEdmx.dll
+G:\Projects\AxactAsia\DataModelEdmx\bin\Debug\DataModelEdmx.pdb
+G:\Projects\AxactAsia\DataModelEdmx\obj\Debug\DataModelEdmx.csprojResolveAssemblyReference.cache
+G:\Projects\AxactAsia\DataModelEdmx\obj\Debug\DataModelEdmx.dll
+G:\Projects\AxactAsia\DataModelEdmx\obj\Debug\DataModelEdmx.pdb
+G:\Projects\Publish_AxactAsia\AxactAsia\DataModelEdmx\bin\Debug\DataModelEdmx.dll.config
+G:\Projects\Publish_AxactAsia\AxactAsia\DataModelEdmx\bin\Debug\DataModelEdmx.dll
+G:\Projects\Publish_AxactAsia\AxactAsia\DataModelEdmx\bin\Debug\DataModelEdmx.pdb
+G:\Projects\Publish_AxactAsia\AxactAsia\DataModelEdmx\obj\Debug\DataModelEdmx.dll
+G:\Projects\Publish_AxactAsia\AxactAsia\DataModelEdmx\obj\Debug\DataModelEdmx.pdb

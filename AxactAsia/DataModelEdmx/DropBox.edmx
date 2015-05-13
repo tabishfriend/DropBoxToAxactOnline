@@ -1,0 +1,111 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+  <!-- EF Runtime content -->
+  <edmx:Runtime>
+    <!-- SSDL content -->
+    <edmx:StorageModels>
+    <Schema Namespace="DropBoxModel.Store" Alias="Self" Provider="System.Data.SqlClient" ProviderManifestToken="2005" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+        <EntityContainer Name="DropBoxModelStoreContainer">
+          <EntitySet Name="AxactToDropBoxMapping" EntityType="DropBoxModel.Store.AxactToDropBoxMapping" store:Type="Tables" Schema="dbo" />
+          <EntitySet Name="DropBoxUser" EntityType="DropBoxModel.Store.DropBoxUser" store:Type="Tables" Schema="dbo" />
+        </EntityContainer>
+        <EntityType Name="AxactToDropBoxMapping">
+          <Key>
+            <PropertyRef Name="ID" />
+          </Key>
+          <Property Name="ID" Type="uniqueidentifier" Nullable="false" />
+          <Property Name="UserID" Type="uniqueidentifier" />
+          <Property Name="AxactDocumentID" Type="uniqueidentifier" Nullable="false" />
+          <Property Name="DropBoxRev" Type="nvarchar" Nullable="false" MaxLength="50" />
+          <Property Name="DropBoxPath" Type="nvarchar" Nullable="false" MaxLength="250" />
+        </EntityType>
+        <EntityType Name="DropBoxUser">
+          <Key>
+            <PropertyRef Name="UserID" />
+          </Key>
+          <Property Name="UserID" Type="uniqueidentifier" Nullable="false" />
+          <Property Name="Token" Type="nvarchar" Nullable="false" MaxLength="100" />
+          <Property Name="Secret" Type="nvarchar" Nullable="false" MaxLength="100" />
+          <Property Name="IsAccessToken" Type="bit" Nullable="false" />
+        </EntityType>
+      </Schema></edmx:StorageModels>
+    <!-- CSDL content -->
+    <edmx:ConceptualModels>
+      <Schema Namespace="DropBoxModel" Alias="Self" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+        <EntityContainer Name="DropBoxEntities" annotation:LazyLoadingEnabled="true" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation">
+          <EntitySet Name="DropBoxUsers" EntityType="DropBoxModel.DropBoxUser" />
+          <EntitySet Name="AxactToDropBoxMappings" EntityType="DropBoxModel.AxactToDropBoxMapping" />
+        </EntityContainer>
+        <EntityType Name="DropBoxUser">
+          <Key>
+            <PropertyRef Name="UserID" />
+          </Key>
+          <Property Type="Guid" Name="UserID" Nullable="false" />
+          <Property Type="String" Name="Token" Nullable="false" MaxLength="100" FixedLength="false" Unicode="true" />
+          <Property Type="String" Name="Secret" Nullable="false" MaxLength="100" FixedLength="false" Unicode="true" />
+          <Property Type="Boolean" Name="IsAccessToken" Nullable="false" />
+        </EntityType>
+        <EntityType Name="AxactToDropBoxMapping">
+          <Key>
+            <PropertyRef Name="ID" />
+          </Key>
+          <Property Type="Guid" Name="ID" Nullable="false" />
+          <Property Type="Guid" Name="UserID" />
+          <Property Type="Guid" Name="AxactDocumentID" Nullable="false" />
+          <Property Type="String" Name="DropBoxRev" Nullable="false" MaxLength="50" FixedLength="false" Unicode="true" />
+          <Property Type="String" Name="DropBoxPath" Nullable="false" MaxLength="250" FixedLength="false" Unicode="true" />
+        </EntityType>
+      </Schema>
+    </edmx:ConceptualModels>
+    <!-- C-S mapping content -->
+    <edmx:Mappings>
+      <Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+        <EntityContainerMapping StorageEntityContainer="DropBoxModelStoreContainer" CdmEntityContainer="DropBoxEntities">
+          <EntitySetMapping Name="DropBoxUsers">
+            <EntityTypeMapping TypeName="DropBoxModel.DropBoxUser">
+              <MappingFragment StoreEntitySet="DropBoxUser">
+                <ScalarProperty Name="IsAccessToken" ColumnName="IsAccessToken" />
+                <ScalarProperty Name="Secret" ColumnName="Secret" />
+                <ScalarProperty Name="Token" ColumnName="Token" />
+                <ScalarProperty Name="UserID" ColumnName="UserID" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+          <EntitySetMapping Name="AxactToDropBoxMappings">
+            <EntityTypeMapping TypeName="DropBoxModel.AxactToDropBoxMapping">
+              <MappingFragment StoreEntitySet="AxactToDropBoxMapping">
+                <ScalarProperty Name="DropBoxPath" ColumnName="DropBoxPath" />
+                <ScalarProperty Name="DropBoxRev" ColumnName="DropBoxRev" />
+                <ScalarProperty Name="AxactDocumentID" ColumnName="AxactDocumentID" />
+                <ScalarProperty Name="UserID" ColumnName="UserID" />
+                <ScalarProperty Name="ID" ColumnName="ID" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+        </EntityContainerMapping>
+      </Mapping>
+    </edmx:Mappings>
+  </edmx:Runtime>
+  <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <Connection>
+      <DesignerInfoPropertySet>
+        <DesignerProperty Name="MetadataArtifactProcessing" Value="EmbedInOutputAssembly" />
+      </DesignerInfoPropertySet>
+    </Connection>
+    <Options>
+      <DesignerInfoPropertySet>
+        <DesignerProperty Name="ValidateOnBuild" Value="true" />
+        <DesignerProperty Name="EnablePluralization" Value="True" />
+        <DesignerProperty Name="IncludeForeignKeysInModel" Value="True" />
+      </DesignerInfoPropertySet>
+    </Options>
+    <!-- Diagram content (shape and connector positions) -->
+    <Diagrams>
+      <Diagram Name="DropBox">
+        <EntityTypeShape EntityType="DropBoxModel.DropBoxUser" Width="1.5" PointX="0.75" PointY="0.75" Height="1.7879850260416674" />
+        <EntityTypeShape EntityType="DropBoxModel.AxactToDropBoxMapping" Width="1.5" PointX="6.479291581771939" PointY="7.39332607732775" />
+      </Diagram>
+    </Diagrams>
+  </Designer>
+</edmx:Edmx>

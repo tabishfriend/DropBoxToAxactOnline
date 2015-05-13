@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="DropBoxModel.Store" Alias="Self" Provider="System.Data.SqlClient" ProviderManifestToken="2005" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityContainer Name="DropBoxModelStoreContainer">
+    <EntitySet Name="AxactToDropBoxMapping" EntityType="DropBoxModel.Store.AxactToDropBoxMapping" store:Type="Tables" Schema="dbo" />
+    <EntitySet Name="DropBoxUser" EntityType="DropBoxModel.Store.DropBoxUser" store:Type="Tables" Schema="dbo" />
+  </EntityContainer>
+  <EntityType Name="AxactToDropBoxMapping">
+    <Key>
+      <PropertyRef Name="ID" />
+    </Key>
+    <Property Name="ID" Type="uniqueidentifier" Nullable="false" />
+    <Property Name="UserID" Type="uniqueidentifier" />
+    <Property Name="AxactDocumentID" Type="uniqueidentifier" Nullable="false" />
+    <Property Name="DropBoxRev" Type="nvarchar" Nullable="false" MaxLength="50" />
+    <Property Name="DropBoxPath" Type="nvarchar" Nullable="false" MaxLength="250" />
+  </EntityType>
+  <EntityType Name="DropBoxUser">
+    <Key>
+      <PropertyRef Name="UserID" />
+    </Key>
+    <Property Name="UserID" Type="uniqueidentifier" Nullable="false" />
+    <Property Name="Token" Type="nvarchar" Nullable="false" MaxLength="100" />
+    <Property Name="Secret" Type="nvarchar" Nullable="false" MaxLength="100" />
+    <Property Name="IsAccessToken" Type="bit" Nullable="false" />
+  </EntityType>
+</Schema>
