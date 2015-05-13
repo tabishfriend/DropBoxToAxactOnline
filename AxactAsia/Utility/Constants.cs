@@ -20,10 +20,7 @@ namespace Utility
         /// <summary>
         /// Axactonline constants
         /// </summary>
-        public const string AxactClientID = "ClientID";
-        public const string AxactClientSecret = "ClientSecret";
         public const string AxactBaseUri = "BaseUri";
-        public const string AxactCallback = "Callback";
         public const string AxactDocumentType = "DocumentType";
         public const string AxactDocumentCategory = "DocumentCategory";
         public const string AxactDocumentSubject = "DocumentSubject";
